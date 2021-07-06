@@ -1,7 +1,0 @@
-﻿  Assembling setrbx.asm...
-  main.cpp
-  Code wird generiert.
-  Previous IPDB not found, fall back to full compilation.
-  All 485 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Codegenerierung ist abgeschlossen.
-  rape2.vcxproj -> C:\Users\Savage\Desktop\exec leak\rape2\rape2\x64\Release\soulcheats.dll
